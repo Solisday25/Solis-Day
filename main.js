@@ -1,5 +1,3 @@
-import "./style.css";
-
 /* ============================================================
    Solis Day — interactions
    - Sticky header state on scroll
